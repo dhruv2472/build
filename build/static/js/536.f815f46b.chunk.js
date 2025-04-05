@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkJob_Portal_with_AI_Resume_Analyzer=self.webpackChunkJob_Portal_with_AI_Resume_Analyzer||[]).push([[536],{4536:function(e,t,n){n.r(t);var u=n(2791),o=n(184);t.default=function(){return(0,u.useEffect)((function(){document.title="Page Not Found"}),[]),(0,o.jsx)("h1",{children:"Page not found!"})}}}]);
+//# sourceMappingURL=536.f815f46b.chunk.js.map
